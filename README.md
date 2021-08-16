@@ -1,2 +1,2 @@
 # linux-cpp-utils
-Code snippets or algorithms to solve typical issues
+Code snippets or algorithms to add or solve particular functional use-cases
